@@ -18,7 +18,7 @@
   <h1 style="color:rebeccapurple">欢迎来到idea</h1>
   <h1 style="color:silver">欢迎来到idea</h1>
   <h1 style="color:bisque">欢迎来到idea</h1>
-  <h1 style="color:crimson">欢迎来到idea</h1>
+  <h8 style="color:crimson">欢迎来到idea</h8>
 
   </body>
 </html>
